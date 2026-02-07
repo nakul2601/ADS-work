@@ -3,7 +3,7 @@ public class G31MethodOver {
         Student s = new Student();
         s.details();
         s.details(5);
-        s.details(5, 1.5f);
+        s.details(5, 1.5f); 
     }
 } 
 
