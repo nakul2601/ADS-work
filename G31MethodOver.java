@@ -5,7 +5,7 @@ public class G31MethodOver {
         s.details(5);
         s.details(5, 1.5f);
     }
-}
+} 
 
 class Student{
 
